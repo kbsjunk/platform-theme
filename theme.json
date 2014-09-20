@@ -1,0 +1,8 @@
+{
+	"name":        "KitBS Frontend Theme",
+	"slug":        "frontend::kitbs",
+	"parent":      "frontend::default",
+	"description": "KitBS theme.",
+	"author":      "KitBS",
+	"version":     "0.1"
+}

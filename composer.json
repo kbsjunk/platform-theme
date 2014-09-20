@@ -1,0 +1,16 @@
+{
+	"name": "kitbs/platform-theme",
+	"type": "platform-theme",
+	"description": "KitBS frontend theme.",
+	"require": {
+		"php": ">=5.4.0",
+		"cartalyst/composer-installers": "1.1.*"
+	},
+	"extra": {
+		"component": "theme",
+		"branch-alias": {
+			"dev-master": "1.0.x-dev"
+		}
+	},
+	"minimum-stability": "dev"
+}

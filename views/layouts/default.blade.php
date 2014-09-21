@@ -73,7 +73,7 @@
 					<ul class="nav navbar-nav">
 					</ul>
 
-					@widget('platform/menus::nav.show', array('main', 0, 'nav navbar-nav navbar-right'))
+					{{-- @widget('platform/menus::nav.show', array('main', 0, 'nav navbar-nav navbar-right')) --}}
 
 				</div>
 
